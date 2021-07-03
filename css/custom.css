@@ -1,0 +1,141 @@
+.site-logo{
+    width: 20%;
+    background-color: #fff;
+    margin-top: 7%;
+    border-radius : 0px 32px 0px 32px;
+}
+
+.header__menu ul li a:hover,
+.header__menu ul li a.selected,
+.header__menu ul li a.active{
+    color : #bfbdbb;
+}
+
+.header__menu>ul>li.header__btn--login>a{
+    color: #fff;
+
+}
+
+.header__menu ul li.header__btn--login>a:hover{
+    background-color: #a0148e;
+}
+
+.header__menu>ul>li.header__btn--login>a{
+    border: 1px #a0148e solid;
+}
+
+.btn--blue-bg{
+    background-color: #a0148e;
+    border: 2px #a0148e solid;
+}
+
+.intro__description span{
+    color: #f7fbf9;
+}
+
+.grid__title span{
+    color: #a0148e;
+}
+
+#about{
+    background-color: #efefef;
+}
+
+.grid--about .grid__list li{
+    color: #a0148e;
+}
+
+.header{
+    background-color: #100e29;
+}
+
+.header--sticky{
+    background-color: #100e29;
+}
+
+.header--sticky .header__menu>ul>li>a,
+.header--page .header__menu>ul>li>a{
+    color: #bfbdbb;
+}
+
+.pricing__badge-text{
+    background-color: #a0148e;
+}
+
+.btn--orange-bg{
+    background-color: #ffffff;
+    border: 2px #ffffff solid;
+    color: #a0148e;
+}
+
+.btn--orange-bg:hover{
+    color: #ffffff;
+}
+
+.header__menu ul ul li a:hover{
+    color: #a0148e;
+}
+
+.grid--features .grid__item:hover {
+    background-color: #eeeeee;
+    box-shadow: 0 0 30px 0px rgba(0, 0, 0, 0.18);
+    -moz-box-shadow: 0 0 30px 0px rgba(0, 0, 0, 0.18);
+    -webkit-box-shadow: 0 0 30px 0px rgba(0, 0, 0, 0.18);
+    transform: translate(0, -10px);
+    -webkit-transform: translate(0, -10px);
+    -moz-transform: translate(0, -10px);
+}
+
+.pricing__plan--popular .pricing__signup{
+    background-color: #a0148e;
+    border-color: #a0148e;
+}
+
+.pricing__plan--popular .pricing__signup:hover{
+    color: #eeeeee;
+}
+
+.pricing__signup{
+    color: #a0148e;
+    border-color: #a0148e;
+}
+
+.pricing__signup:hover{
+    background-color: #a0148e;
+    border-color: #a0148e;
+}
+
+.pricing__plan--popular{
+    background-color: #280a50;
+}
+
+.btn--blue-bg:hover{
+    color: #f7fbf9;
+}
+
+.grid--support .grid__more{
+    background-color: #280a50;
+    border-color: #280a50;
+}
+
+.section--cta{
+    background-color: #280a50;
+}
+
+.custom-image{
+    width: 100%;
+}
+
+.pricing__plan{
+    background-color: #ffffff;
+    margin: 7px;
+    width: 32.333%;
+}
+
+.pricing{
+    width: 100%;
+}
+
+.grid__client-logo{
+    filter: grayscale(100%);
+}
